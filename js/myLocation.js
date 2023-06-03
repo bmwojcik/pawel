@@ -1,0 +1,3 @@
+$(function(){
+    $("#myLocation").html(myLoc);
+});
