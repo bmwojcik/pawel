@@ -5,7 +5,7 @@ function initMap() {
     let CustomOp = {
         center:
             new google.maps.LatLng(center.lat, center.lng),
-        zoom: 3,
+        zoom: 6,
     };
 
     let map = new google.maps.Map(document.getElementById("map"), CustomOp);

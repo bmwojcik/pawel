@@ -462,6 +462,12 @@ body {
         max-width: 600px;
     }
 }
+@media (max-width: 100px) {
+
+    .ZAWARTOSC {
+        max-width: 200px;
+    }
+}
 html {
     scroll-behavior: smooth;
 }
